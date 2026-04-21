@@ -1,4 +1,4 @@
-# Fake-profile-Detection on Instagram-Using-Machine-Learning
+# Fake profile Detection on Instagram Using Machine Learning
 
 Project Overview
 This project is a Machine Learning model that detects whether an Instagram profile is **real or fake** based on user data.
